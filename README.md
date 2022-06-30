@@ -1,7 +1,6 @@
 ### Olá, eu sou a Pâmela Machado!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamela-WMachado&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamela-WMachado&layout=compact&langs_count=168&theme=tokyonight)
 
 
 <!--
