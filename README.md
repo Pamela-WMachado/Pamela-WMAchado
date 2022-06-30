@@ -1,9 +1,10 @@
-### Hi there, I'm Pamela Machado
+### Olá, eu sou a Pâmela Machado!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamela-WMAchado)]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamela-WMachado&show_icons=true)
+<div>
+  <a href="https://github.com/Pamela-WMachado">
+  <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=Pamela-WMachado&show_icons=true&count_private=true&theme=radical")
 
-
+ </div>
 
 <!--
 **Pamela-WMachado/Pamela-WMAchado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
