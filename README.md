@@ -1,6 +1,6 @@
 ### Olá, eu sou a Pâmela Machado!
 
-<div style="text-align: center">
+<div style="align: center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamela-WMachado&show_icons=true&theme=tokyonight)
 
