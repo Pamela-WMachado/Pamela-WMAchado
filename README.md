@@ -1,4 +1,6 @@
-### Olá, eu sou a Pâmela Machado!
+<h1 style="text-align: center"> Olá, eu sou a Pâmela Machado!</h1>
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamela-WMachado&show_icons=true&theme=tokyonight)
