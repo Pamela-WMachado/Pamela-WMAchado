@@ -1,6 +1,6 @@
 <h1 style="text-align: center"> Olá, eu sou a Pâmela Machado! Seja bem-vindo(a)✨</h1>
 
-<p> Sou estudante de tecnlogia e desenvolvedora junior. </p>
+<p style="text-weigth: bold"> Sou estudante de tecnlogia e desenvolvedora junior. </p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamela-WMachado&show_icons=true&theme=tokyonight)
