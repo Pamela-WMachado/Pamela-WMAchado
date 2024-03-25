@@ -1,9 +1,13 @@
 <h1 style="text-align: center"> Olá, eu sou a Pâmela Machado! Seja bem-vindo(a)✨</h1>
 
-<h3> Sou estudante de tecnlogia e desenvolvedora web junior. </h3>
+<h2> Desenvolvedora backend Júnior.. </h2>
 
+<p> 
+Atuo na área há cerca de 2 anos, após uma  transição de carreira. Sou estudante de Técnologia em Ciência de Dados.
 
-
+Migrei do estudo de idiomas para o estudo de linguagens de programação! 
+Sou autoditada e uma grande entusiasta do estudo de sintaxe.
+</p>
 <!--
 **Pamela-WMachado/Pamela-WMAchado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
