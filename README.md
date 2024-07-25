@@ -3,7 +3,7 @@
 <h2> Desenvolvedora backend Júnior. </h2>
 
 <p> 
-Atuo na área há cerca de 2 anos, após uma  transição de carreira. Sou estudante de Técnologia em Ciência de Dados.
+Atuo na área há cerca de 2 anos, após uma  transição de carreira. Sou estudante de Técnologia em Análise e Desenvolvimento de Sistemas.
 
 Migrei do estudo de idiomas para o estudo de linguagens de programação! 
 Sou autoditada e uma grande entusiasta do estudo de sintaxe.
