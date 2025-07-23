@@ -13,7 +13,7 @@
 <h1 style="text-align: center"> Hey there, I'm Pâmela Machado. Nice to see you here ✨</h1>
 
 <h2>Backend Developer </h2>
-🚀 Skills:
+<h2>🚀 Skills:</h2>
 🟣 Java 8+ — Strong foundation in Java programming, including modern features and best practices.
 
 🌱 Spring Boot — Building robust and scalable RESTful APIs and microservices.
